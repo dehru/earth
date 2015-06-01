@@ -1,0 +1,12 @@
+{
+    "name": "earth",
+    "description": "earth contains dog and cat",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "underscore": "1.0.3",
+        "cat": "https://github.com/dehru/cat.git#master",
+        "dog": "https://github.com/dehru/dog.git",
+        "element": "https://github.com/dehru/element.git#0.0.3"
+    }
+}
