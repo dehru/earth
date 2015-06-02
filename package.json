@@ -7,6 +7,6 @@
         "underscore": "1.0.3",
         "cat": "https://github.com/dehru/cat.git#master",
         "dog": "https://github.com/dehru/dog.git",
-        "elements": "https://github.com/dehru/elements.git#0.0.3"
+        "emc-elements": "~0.0.2"
     }
 }
